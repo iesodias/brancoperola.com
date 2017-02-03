@@ -680,3 +680,11 @@ a.btn:hover {
 	}
 	
 }
+
+
+.teste {
+    margin-right: auto;
+    margin-left: 400px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
